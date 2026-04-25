@@ -75,7 +75,7 @@ Semester 6  →  Data Science & Machine Learning — Flask, Scikit-learn, Tensor
 
 ## 🤝 Connect With Me
 
-- 🔗 **LinkedIn:** [linkedin.com/in/saliha-fatima]([https://linkedin.com/in/saliha-fatima](https://www.linkedin.com/in/saliha-fatima-827b20294/))
+- 🔗 **LinkedIn:** [linkedin.com/in/saliha-fatima](https://www.linkedin.com/in/saliha-fatima-827b20294/)
 - 📧 **Email:** fatimasaliha66@gmail.com
 - 🎓 **University:** [The Ghazi University, DG Khan](https://www.gudgk.edu.pk/)
 
