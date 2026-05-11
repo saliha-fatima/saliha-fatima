@@ -65,10 +65,10 @@
 ## 📚 My Semester Journey
 
 ```
-Semester 3  →  Python Basics · GUI Apps · 20+ Software Engineering Projects
-Semester 4  →  Web Technologies — HTML, CSS, JavaScript, APIs (10+ projects)
-Semester 5  →  Web Programming — Laravel, PHP, MySQL
-Semester 6  →  Data Science & Machine Learning — Flask, Scikit-learn, TensorFlow
+  →  Python Basics · GUI Apps · 20+ Software Engineering Projects
+  →  Web Technologies — HTML, CSS, JavaScript, APIs (10+ projects)
+  →  Web Programming — Laravel, PHP, MySQL
+  →  Data Science & Machine Learning — Flask, Scikit-learn, TensorFlow
 ```
 
 ---
