@@ -24,7 +24,7 @@
 - 🤖 Building and improving Machine Learning projects
 - 🌐 Developing full-stack web applications
 - 📂 Growing my GitHub portfolio with 55+ academic projects
-- 🎓 Completing BSIT at The Ghazi University (Session 2023–2027)
+
 
 ---
 
@@ -62,7 +62,7 @@
 
 ---
 
-## 📚 My Semester Journey
+## 📚 My Journey
 
 ```
   →  Python Basics · GUI Apps · 20+ Software Engineering Projects
